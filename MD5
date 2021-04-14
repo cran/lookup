@@ -1,0 +1,15 @@
+e362490a29f145a9e4c3bc0da069d8af *DESCRIPTION
+ec46d127ff81a7f91fd15de80a22dbd1 *LICENSE
+d358bc09814277df02455f0bb7f1ebc6 *NAMESPACE
+cab748e1104b09653f7b8ac976ba7a2d *NEWS.md
+a27bd2246503a709fd6a187d8addbef5 *R/lookup.R
+1268a365a75ae6c6a8ed44b24f82c3c2 *build/vignette.rds
+01199ff45c22f2d1331d676db6864284 *inst/doc/lookup.R
+f691f6d7ebac7be419af8595bbdd35d9 *inst/doc/lookup.Rmd
+436ea2e36ce9d8be2abc9ab508e99855 *inst/doc/lookup.html
+da19589347bf73a136d9083d0de1fa3f *man/figures/logo.png
+0eeb208140a220548027bc4bb2a3bece *man/lookup.Rd
+9ea08d49af9b9aa6fc3b0bee47a4e878 *man/vlookup.Rd
+ad6b7f22552259e68f058ff64071d3e8 *tests/testthat.R
+6dad65cb32fe57bf9fc54da4bb0985e0 *tests/testthat/test_lookup.R
+f691f6d7ebac7be419af8595bbdd35d9 *vignettes/lookup.Rmd
