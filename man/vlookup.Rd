@@ -4,7 +4,7 @@
 \alias{vlookup}
 \title{Lookup items in key-value dataframe similar to Excel's vlookup function}
 \usage{
-vlookup(x, data, key, value, nomatch = NA)
+vlookup(x, data, key = "key", value = "value", nomatch = NA)
 }
 \arguments{
 \item{x}{Vector of items to lookup in key-value pairs.}
